@@ -1,0 +1,14 @@
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\bin\Debug\TypingGame.exe.config
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\TypingGame.csproj.AssemblyReference.cache
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\MainWindow.baml
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\MainWindow.g.cs
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\App.g.cs
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\TypingGame_MarkupCompile.cache
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\TypingGame.g.resources
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\TypingGame.Properties.Resources.resources
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\TypingGame.csproj.GenerateResource.cache
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\TypingGame.csproj.CoreCompileInputs.cache
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\TypingGame.exe
+C:\Users\000481064\Downloads\New folder\TypingGame\TypingGame\obj\Debug\TypingGame.pdb
